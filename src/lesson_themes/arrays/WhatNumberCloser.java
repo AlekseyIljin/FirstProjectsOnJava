@@ -1,9 +1,11 @@
+package lesson_themes.arrays;
+
 import java.util.Scanner;
 
 import static java.lang.Math.abs;
 
 
-public class Task2 {
+public class WhatNumberCloser {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Число n, пожалуйста -");

@@ -1,4 +1,6 @@
-public class Task3 {
+package lesson_themes.arrays;
+
+public class ArrayOfNumbers {
     public static void main(String[] args) {
         int n = -10;
         while(n<26){

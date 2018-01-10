@@ -1,3 +1,5 @@
+package lesson_themes.methods.src;
+
 import java.util.Scanner;
 
 public class Checker {

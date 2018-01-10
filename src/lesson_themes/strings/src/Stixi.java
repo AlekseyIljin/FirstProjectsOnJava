@@ -1,4 +1,6 @@
-public class Taskinclass {
+package lesson_themes.strings.src;
+
+public class Stixi {
     public static void main(String[] args) {
         String stix = " Был и я среди донцов...\n" +
                 "Была пора: наш праздник молодой...\n" +

@@ -1,6 +1,8 @@
+package lesson_themes.arrays;
+
 import java.util.Scanner;
 
-public class Task1 {
+public class Tester {
     public static void main(String[] args) {
         System.out.println("Type any number - ");
         Scanner in = new Scanner(System.in);
