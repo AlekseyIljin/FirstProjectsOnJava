@@ -1,4 +1,4 @@
-package lesson_themes.methods.src;
+package lesson_themes.methods;
 
 import java.util.Scanner;
 

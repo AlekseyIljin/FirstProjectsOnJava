@@ -1,4 +1,4 @@
-package lesson_themes.strings.src;
+package lesson_themes.strings;
 
 public class Stixi {
     public static void main(String[] args) {
