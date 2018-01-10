@@ -12,10 +12,5 @@ public class BigArrayOfNumbers {
         for (short i : sto) {
             System.out.println(i+" ");
         }
-
-
-
-
-
     }
 }

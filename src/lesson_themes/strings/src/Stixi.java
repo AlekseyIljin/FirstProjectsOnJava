@@ -22,7 +22,7 @@ public class Stixi {
         String [] masStix = stix.split("альбом");
         System.out.println(masStix.length - 1);
   }
-  public static void evenLetter(String str) {
+  private static void evenLetter(String str) {
       char arr[] = str.toCharArray();
       for (int i = 0; i < arr.length; i++) {
           if (i % 2 == 0) {
