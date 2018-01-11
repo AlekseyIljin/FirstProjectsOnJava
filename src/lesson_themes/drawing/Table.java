@@ -17,6 +17,7 @@ public class Table {
             System.out.println("\t");
         }
     }
+
     public static void reverseMultiplication(){
         for (int i = 10; i >0; i--) {
             for(int j = 10;j>=0;j--){
